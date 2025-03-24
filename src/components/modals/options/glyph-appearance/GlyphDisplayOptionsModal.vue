@@ -1,5 +1,5 @@
 <script>
-import SelectGlyphInfoDropdown, { GlyphInfoVue } from "../SelectGlyphInfoDropdown";
+import SelectGlyphInfoDropdown, { GlyphInfoVue } from ".././SelectGlyphInfoDropdown";
 
 import ExpandingControlBox from "@/components/ExpandingControlBox";
 import GlyphCustomization from "@/components/modals/options/glyph-appearance/GlyphCustomization";
