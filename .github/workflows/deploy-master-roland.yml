@@ -27,7 +27,6 @@ jobs:
       - run: npm run build:master
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository: ShadowKHedgehog/SufferingDimensions
           branch: gh-pages
           folder: dist
           single-commit: true
